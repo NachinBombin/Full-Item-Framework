@@ -1,6 +1,0 @@
-{
-	"title": "NPC Crossbow Bolt Throw",
-	"type": "ServerContent",
-	"tags": ["npc", "combat", "gameplay"],
-	"description": "Gives enemy NPCs a chance to fire a crossbow bolt (obj_vj_crossbowbolt) toward the player during combat."
-}
